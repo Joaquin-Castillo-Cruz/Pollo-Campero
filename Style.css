@@ -16,7 +16,8 @@ h2{
     font-size: 30px;
 }
 
-.body{
+body{
+    background-image: url(fondo.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
